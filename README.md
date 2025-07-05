@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truongngoctri12345&label=Profile%20views&color=0e75b6&style=flat" alt="truongngoctri12345" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/TruongNgocTri12345](https://github.com/TruongNgocTri12345)
+- 👨‍💻 All of my projects are available at [https://github.com/NgocTriTruong](https://github.com/NgocTriTruong)
 
 - 📫 How to reach me **ngoctri.truong04@gmail.com**
 
