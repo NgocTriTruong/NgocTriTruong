@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngoc Tri Truong</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngoctritruong&label=Profile%20views&color=0e75b6&style=flat" alt="ngoctritruong" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=truongngoctri12345&label=Profile%20views&color=0e75b6&style=flat" alt="truongngoctri12345" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NgocTriTruong](https://github.com/NgocTriTruong)
 
