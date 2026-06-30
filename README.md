@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 👨‍💻 All of my projects: https://github.com/NgocTriTruong  
 - 📫 Contact: **ngoctri.truong04@gmail.com**  
-- ❤️ I love Java  
+- ❤️ I love you  
 
 ---
 
